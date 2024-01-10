@@ -1,4 +1,6 @@
-﻿using System;
+//Вариант 18
+
+using System;
 
 class Program
 {
